@@ -2,7 +2,7 @@
 
 **Внимание: скрипт написан дилетантом в области Python - core. Данный язык выбран для удобства построения точек на графике**
 
-**Attention: the script was write by dabbler in python-сore skills. The programming language was chosen because it has matplotlib library for building graphs**
+**Attention: the script was written by dabbler in python-сore skills. The programming language was chosen because it has matplotlib library for building graphs**
 
 ### Алгоритм построения точек - нормальное распределение (Сигма = 6, Мат. ожидание = 0 (не используется в проекте, но можно добавить в функцию построения координат))
 
