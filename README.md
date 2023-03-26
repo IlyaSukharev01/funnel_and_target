@@ -1,6 +1,6 @@
 # Funnel and Target / Воронка и мишень
 
-**Внимание: скрипт написан не специалистом в области языка Python. Данный язык выбран для удобства построения точек на графике**
+**Внимание: скрипт написан дилетантом в области Python - core. Данный язык выбран для удобства построения точек на графике**
 
 **Attention: the script was write by dabbler in python-сore skills. The programming language was chosen because it has matplotlib library for building graphs**
 
